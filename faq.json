@@ -1,0 +1,44 @@
+{
+  "FAQ": [
+    {
+      "question": "Can you walk me through your professional journey? How did you get into software development?",
+      "answer": "I graduated from college in 2014 with a degree in cinema projection systems. I then worked as an engineer at a large cinema for two years. <br/><br/>Next, I decided to continue my education in a different direction and in 2017 I became a Bachelor of Business Informatics at the St. Petersburg Institute of Technology. <br/><br/>There I was diving into areas such as basic of computer science, enterprise IT systems, business process modeling, innovation management, economics, strategic management and other things. According to this set, I should have pursued a career as an IT consultant or analyst. However, I had a predisposition for creating digital products, which led me to pursue a career as a developer. <br/><br/>At the beginning of 2016, specifically choosing Web Development. After a few months self-education with open sources and one paid course, in October 2016 I started my first job as a Front-End Developer in a small company. And in parallel in June 2017 I finished my bachelor's degree. <br/><br/>- Then, from 2017 to 2018, I found my first remote job. <br/>- From 2018 to 2020, I was lucky enough to be involved in international projects at <a href='https://www.emergn.com/' target='_blanc'>Emergn</a>.<br/>- Then I found myself in a startup for the first time 1:1 with a founder, with whom I felt a real impact on <a href='https://unicornplatform.com/' target='_blanc'>the product</a> and began to develop more as a Full-Stack developer with greater responsibility for the entire product. <br/><br/>You can see my further places of work on <a href='https://www.linkedin.com/in/artemshar/' target='_blank' className='text-blue-500'>LinkedIn</a>. Welcome!",
+      "category": "personal"
+    },
+    {
+      "question": "Can you describe a project where you made architectural decisions? What were the main challenges?",
+      "answer": "2024: I led the technical design for an integration API service connecting multiple companies in the home maintenance and repair industry. The main challenge was that the partner company, which provided the external API, had no predefined specification - so I initiated a technical dialogue with their team to define the endpoints and data formats we needed as consumers. This required flexibility on both sides and ongoing coordination, especially as their API evolved. <br/><br/>I also implemented CRM integration and developed a system of automated daily reports and real-time messenger notifications for internal staff. These additions significantly improved operational visibility and response time within the company.",
+      "category": "work"
+    },
+    {
+      "question": "What Front-End technologies are you most comfortable with, and how do you choose the right tools for a project?",
+      "answer": "Over the years, I've worked with React (~ 80%), Vue (~ 10%), Angular (~ 5%), and tested Svelte and Astro for some projects. <br/><br/>I prefer to use React and its ecosystem, but I can work with other technologies if needed. I started my career in Front-end development in 2016, working with legacy projects to support them, as well as new projects, including building layouts from scratch (even without a design). I have experience with static sites, SPAs, server-side rendering, and PWA.<br/><br/>I've focused on usability, consistent design, responsive design, performance optimization, accessibility, data flow management. <br/><br/>Also, it is important to me to understand how lower capabilities work in Web API, JavaScript, and HTML/CSS, and to be able to use them. <br/><br/> My priority is to deliver the best user experience (UX) and developer experience (DX) for maintenance and development.",
+      "category": "work"
+    },
+    {
+      "question": "How do you ensure code quality in your work?",
+      "answer": "I use a mix of automated tools: linters, formatters, test coverage and processes: code reviews, calls with pair programming when needed. <br/><br/>I try to write code that's easy to read, with clear intentions and dependencies. I also proactively look for edge cases and test them early.",
+      "category": "work"
+    },
+    {
+      "question": "How do you usually interact with designers, product managers, or QA engineers?",
+      "answer": "I've mainly worked on international, distributed teams where smooth collaboration with designers, product managers, and QA engineers was essential. I'm comfortable working in both Russian and English, and I adapt my communication style to the team setup - whether it's a lean startup with one founder or a mid-sized product team within a larger organization. <br/><br/>With designers, I focus on early alignment - clarifying technical constraints and providing feedback on feasibility. <br/><br/>With product managers, I aim for shared understanding of priorities and scope, contributing to planning and proposing technical trade-offs when needed. For QA, I prioritize transparency: I document edge cases, highlight risk areas early, and maintain open communication during testing cycles. <br/><br/>Regardless of team size, I value async-friendly, respectful communication that helps everyone move forward without unnecessary blockers.",
+      "category": "work"
+    },
+    {
+      "question": "What is your interest in Software Development?",
+      "answer": "Frontend on first place, because I love to create user-friendly and beautiful interfaces. <br/><br/>- DevOps, I like to set up project delivery from development to test environment and release. <br/>- Backend/Fullstack development (Node.js, TypeScript, Python). - it works when you sleep, it's amazing. <br/>- UI/UX, Design. I really love people who design things and make them beautiful and convenient. And I'm interested in good design practices, patterns, tools.",
+      "category": "work"
+    },
+    {
+      "question": "Where are you from?",
+      "answer": "I'm from Saint-Petersburg region, Russia. <br/><br/>Until 30 years old I lived, studied and worked mainly from St. Petersburg. <br/><br/>Since 2023 I live and work in Novi Sad, Serbia. <br/><br/>I grew up in a quiet, green place near the Gulf of Finland between St. Petersburg and Vyborg. I really love this place.",
+      "category": "personal"
+    },
+    {
+      "question": "What are your hobbies?",
+      "answer": "- Running <br/>- Music <br/><br/>These are probably my two favorite things to do outside of work.",
+      "category": "personal"
+    }
+  ]
+} 
